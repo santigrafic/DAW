@@ -1,9 +1,22 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+Repositorio para la práctica 5.1 de la asignatura Despliegue de aplicaciones de 2º del ciclo superior de DAW.
 
-\f0\fs24 \cf0 \
-Repositorio para la pr\'e1ctica 5.1 de la asignatura Despliegue de aplicaciones de 2\'ba curso del ciclo superior de DAW}
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <tr>
+    <th>NOMBRE</th>
+    <th>GITHUB</th>
+  </tr>
+  <tr>
+    <td>Iker</td>
+    <td>https://github.com/moimenta84</td>
+  </tr>
+  <tr>
+    <td>Rosa</td>
+    <td>https://github.com/rosorillo</td>
+  </tr>
+  <tr>
+    <td>Cristina</td>
+    <td>https://github.com/crisgarau</td>
+  </tr>
+</table>
+
